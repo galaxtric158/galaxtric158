@@ -13,7 +13,7 @@ my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me ga
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxtric158&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
