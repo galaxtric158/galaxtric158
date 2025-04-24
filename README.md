@@ -15,6 +15,5 @@ my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me ga
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galaxtric158&label=Profile%20views&color=0e75b6&style=flat" alt="galaxtric158" /> </p>
