@@ -1,17 +1,20 @@
-<h1 align="center">hey, im galaxtric158</h1>
-<h3 align="center">passionate dev from indonesia <3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galaxtric158&label=Profile%20views&color=0e75b6&style=flat" alt="galaxtric158" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# About Me:
+my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me galax. i like coding, its quite fun!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxtric158&show_icons=true&locale=en&layout=compact" alt="galaxtric158" /></p>
+# tech stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# some of my random GitHub stats:
+![](https://github-readme-stats.vercel.app/api?username=galaxtric158&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=galaxtric158&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxtric158&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galaxtric158&show_icons=true&locale=en" alt="galaxtric158" /></p>
+---
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxtric158&" alt="galaxtric158" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=galaxtric158&label=Profile%20views&color=0e75b6&style=flat" alt="galaxtric158" /> </p>
