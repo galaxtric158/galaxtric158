@@ -1,11 +1,13 @@
   
 
 # About Me:
-**my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me galax.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1D72F7&width=435&lines=My+name+is+galaxtric158%2C;but+you+can+call+me+galax!)](https://git.io/typing-svg)
 </br> i like coding, its my place to ponder and relax. (though sometimes it feels like pain and suffering)
 </br> i watch anime, i like romance, shonen, and sports anime.
 </br> im probably in school right now haha
-<br> click on [this](https://guns.lol/galaxtric158) (or my name above) to check out my socials!
+<br> click on [this](https://guns.lol/galaxtric158) to check out my socials!
+
+
 
 ---
 
@@ -18,8 +20,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=galaxtric158&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxtric158&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
+
+
+
 ---
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder)
+
 
 ---
 </br> thanks for looking at my profile!
+
