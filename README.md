@@ -1,4 +1,4 @@
-
+  
 
 # About Me:
 my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me galax. i like coding, its quite fun!
@@ -6,7 +6,9 @@ my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me ga
 ---
 
 # tech stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+- ~batchfiles and also scratch lololol~
+
 # some of my random GitHub stats:
 ![](https://github-readme-stats.vercel.app/api?username=galaxtric158&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=galaxtric158&theme=dark&hide_border=true)<br/>
