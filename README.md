@@ -1,7 +1,9 @@
   
 
 # About Me:
-my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me galax. i like coding, its quite fun!
+**my name is [galaxtric158](https://guns.lol/galaxtric158), but you can call me galax.**
+</br> i like coding, its quite fun!
+<br> click on [this](https://guns.lol/galaxtric158) (or my name above) to check out my socials!
 
 ---
 
