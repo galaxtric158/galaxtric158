@@ -18,6 +18,3 @@
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=galaxtric158&label=Profile%20views&color=0e75b6&style=flat" alt="galaxtric158" /> </p>
