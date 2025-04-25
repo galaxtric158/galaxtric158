@@ -18,7 +18,7 @@
 # Some of my random GitHub stats:
 ![](https://github-readme-stats.vercel.app/api?username=galaxtric158&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 ![](https://nirzak-streak-stats.vercel.app/?user=galaxtric158&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxtric158&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 
 
