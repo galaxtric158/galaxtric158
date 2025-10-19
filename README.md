@@ -13,7 +13,7 @@
 
 # Programming Languages I Know:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-- ~batchfiles and also scratch lololol~
+- ~batchfiles, scratch, a little bit of cpp~
 
 # Some of my random GitHub stats:
 ![](https://github-readme-stats.vercel.app/api?username=galaxtric158&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
