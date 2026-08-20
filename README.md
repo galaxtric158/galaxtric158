@@ -24,5 +24,4 @@
 - databases: PostgreSQL • SQLite • Redis
 - tools & hw: Arch Linux • Apple • Arduino / ESP32
 ---
-[![stats](https://github-stats-extended.vercel.app/api?username=galaxtric158)](https://github.com/stats-organization/github-stats-extended)
 
