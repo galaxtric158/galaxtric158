@@ -1,33 +1,26 @@
-  
+<img width="1640" height="924" alt="bannerreadme md" src="https://github.com/user-attachments/assets/7f857f2b-d727-45d1-8790-49dc43307ddf" />
 
-# About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1D72F7&width=435&lines=My+name+is+galaxtric158%2C;but+you+can+call+me+galax!)](https://git.io/typing-svg)
-</br> i like coding, its my place to ponder and relax. (though sometimes it feels like pain and suffering)
-</br> i watch anime, i like romance, shonen, and sports anime.
-</br> im probably in school right now haha
-<br> click on [this](https://guns.lol/galaxtric158) to check out my socials!
+### about
+14-year-old software engineer, ai, cs & ml enthusiast; big dreams. 
 
-
+🌐 [personal website](https://edmundkusnadi.vercel.app/) • ✉️ [galaxtric158@gmail.com](mailto:galaxtric158@gmail.com) • 📞 [hmu - phone number](wa.me/6281292912220)
 
 ---
 
-# Programming Languages I Know:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-- ~batchfiles, scratch, a little bit of cpp~
-
-# Some of my random GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=galaxtric158&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-![](https://nirzak-streak-stats.vercel.app/?user=galaxtric158&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxtric158&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+### skills
 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,lua,typescript,js,html,cssarduino&theme=dark" alt="core skills" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vite,npm,git,react,arch,apple,discord&theme=dark" alt="core skills" />
+</p>
 
 
+- languages: Python • TypeScript • JavaScript • Lua • Uno
+- backend: FastAPI • Node.js • Express • REST • RPC
+- databases: PostgreSQL • SQLite • Redis
+- tools & hw: Arch Linux • Apple • Arduino / ESP32
 ---
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder)
-
-
----
-</br> thanks for looking at my profile!
-
