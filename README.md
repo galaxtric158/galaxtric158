@@ -3,7 +3,7 @@
 ### about
 14-year-old software engineer, ai, cs & ml enthusiast; big dreams. 
 
-🌐 [personal website](https://edmundkusnadi.vercel.app/) • ✉️ [galaxtric158@gmail.com](mailto:galaxtric158@gmail.com) • 📞 [hmu - phone number](wa.me/6281292912220)
+🌐 [personal website](https://edmundkusnadi.vercel.app/) • ✉️ [galaxtric158@gmail.com](mailto:galaxtric158@gmail.com) • 📞 [hmu - phone number](https://wa.me/6281292912220)
 
 ---
 
